@@ -1,4 +1,4 @@
-Vaadin
+Vaaaaaaadin
 ======
 *[Vaadin](https://vaadin.com) is a Java framework for building modern web applications that look great, perform well and make you and your users happy.*
 
